@@ -1,0 +1,4 @@
+#Thu Jun 23 13:08:16 SGT 2022
+base.0=C\:\\Users\\wafiy.mohammad\\OneDrive - UNN\\04. Freelance\\flutter-dart-bootcamp\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
